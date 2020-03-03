@@ -1,0 +1,6 @@
+name: DotUtilitiesBungee
+main: net.dotefekts.bungee.dotutils.DotUtilities
+version: 1.0
+author: DotEfekts
+website: http://www.dotefekts.net/
+api-version: 1.15
